@@ -2214,6 +2214,10 @@ html.hidden, body.hidden {
   position: relative;
 }
 
+.cases_title_small {
+  font-size: 35px;
+}
+
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .cases_title {
     font-size: 30px;
@@ -2386,7 +2390,7 @@ html.hidden, body.hidden {
 
 .cases_image {
   position: absolute;
-  left: 16.7%;
+  left: 18%;
   top: 0;
   width: 0%;
   height: 80%;
